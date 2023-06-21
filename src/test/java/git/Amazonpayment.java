@@ -1,4 +1,5 @@
 package git;
 
-public class Amazonpayment {
+public class AmazonpaymentKG {
 }
+git
